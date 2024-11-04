@@ -205,15 +205,7 @@ print(f"GPU speedup: {cpu_time/gpu_time:.2f}x")
 - For the GTX 960M, expect moderate speedup compared to CPU due to its older architecture
 
 
-
-
-
-
-
-
-
-
-# Revisar
+# Alternative considerations
 
 ## Step 7: Install TensorFlow and Additional Dependencies
 ```bash
